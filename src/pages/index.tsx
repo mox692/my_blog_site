@@ -15,7 +15,12 @@ const IndexPage: React.FC = () => (
 		<div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
 			<Image />
 		</div>
+		{/* MEMO: bundleするときにfile名を探しに入ってるっぽい */}
 		<Link to="/page-2/">Go to page 2</Link>
+		{/* MEMO: gatsby外のURLはaタグを使うべきらしい */}
+		<a href="https://google.com">googleサイト</a>
+		<Link to="/page-3/">Go to page 3</Link>
+		<Link to="/navigation/">Go to page navigation</Link>
 	</Layout>
 );
 
