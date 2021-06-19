@@ -4,8 +4,8 @@ import { Link } from "gatsby";
 
 import Layout from "../components/layout";
 import SEO from "../components/seo";
-import { StaticImage } from "gatsby-plugin-image"
-import Button from '@material-ui/core/Button';
+import { StaticImage } from "gatsby-plugin-image";
+import Button from "@material-ui/core/Button";
 
 const ThirdPage = () => (
 	<Layout>
