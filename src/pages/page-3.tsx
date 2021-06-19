@@ -14,10 +14,6 @@ const ThirdPage = () => (
 		<p>Welcome to page 3</p>
 		<Link to="/">Go back to the homepage</Link>
 		<Button variant="contained">Hello!!</Button>;
-		<StaticImage 
-		alt="Clifford, a reddish-brown pitbull, posing on a couch and looking stoically at the camera"
-        src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hmrsolutions.net%2Ffdas-fire-detection-and-alarm-system%2F&psig=AOvVaw2sp6IcNr5NEVLnWsCJ3z4s&ust=1624171779349000&source=images&cd=vfe&ved=0CAcQjRxqFwoTCOCH28GNo_ECFQAAAAAdAAAAABAD'
-		/>
 	</Layout>
 );
 

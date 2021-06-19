@@ -9,7 +9,7 @@
     "@material-ui/icons": "^4.11.2",
     "@material-ui/styles": "^4.11.4",
     "eslint-loader": "^3.0.4",
-    "gatsby": "^2.20.24",
+    "gatsby": "^2.32.13",
     "gatsby-image": "^2.2.39",
     "gatsby-plugin-image": "^1.7.1",
     "gatsby-plugin-manifest": "^2.2.39",
